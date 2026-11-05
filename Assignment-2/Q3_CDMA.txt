@@ -1,0 +1,15 @@
+Q3 - DS-CDMA SPREADING AND DESPREADING
+Length | Mode       | Users | Errors | BER       | Max cross-correlation
+     8 | walsh      |     8 |      0 |  0.000000 |              0.000000
+     8 | random     |     8 |   2980 |  0.149000 |              0.750000
+     8 | nearfar    |     8 |      0 |  0.000000 |              0.000000
+    16 | walsh      |     8 |      0 |  0.000000 |              0.000000
+    16 | random     |     8 |   1634 |  0.081700 |              0.625000
+    16 | nearfar    |     8 |      0 |  0.000000 |              0.000000
+    64 | walsh      |     8 |      0 |  0.000000 |              0.000000
+    64 | random     |     8 |     17 |  0.000850 |              0.218750
+    64 | nearfar    |     8 |      0 |  0.000000 |              0.000000
+\nProcessing gain:
+L= 8: 9.03 dB
+L=16: 12.04 dB
+L=64: 18.06 dB

@@ -1,0 +1,11 @@
+Q4 - OFDMA SUBCARRIER ALLOCATION
+Method                   | Sum throughput | Jain fairness
+Fixed contiguous         |        169.520 |        1.0000
+Interleaved              |        169.783 |        1.0000
+Channel-aware max-rate   |        280.360 |        0.9999
+Max-min reference        |        169.804 |        1.0000
+\nPer-user mean throughput (bit/s/Hz):
+Fixed contiguous: 21.25, 21.18, 21.07, 21.21, 21.17, 21.22, 21.25, 21.18
+Interleaved: 21.22, 21.22, 21.31, 21.02, 21.11, 21.38, 21.27, 21.26
+Channel-aware max-rate: 35.32, 34.86, 35.23, 34.90, 35.65, 34.68, 34.74, 34.97
+Max-min reference: 21.22, 21.24, 21.23, 21.21, 21.21, 21.24, 21.24, 21.22

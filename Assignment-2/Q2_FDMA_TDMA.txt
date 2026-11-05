@@ -1,0 +1,8 @@
+Q2 - FDMA vs TDMA DEDICATED RESOURCE SIMULATION
+Traffic            Access | Capacity | Accepted | Blocked | Utilisation | Unused
+continuous voice   FDMA  |       74 |     2162 |       0 |      72.27% |  27.73%
+continuous voice   TDMA  |       60 |     2090 |      42 |      85.00% |  15.00%
+bursty data        FDMA  |       74 |      569 |       0 |       6.41% |  93.59%
+bursty data        TDMA  |       60 |      635 |       0 |       8.82% |  91.18%
+70/30 mixed        FDMA  |       74 |     1769 |       0 |      47.97% |  52.03%
+70/30 mixed        TDMA  |       60 |     1763 |       0 |      58.64% |  41.36%

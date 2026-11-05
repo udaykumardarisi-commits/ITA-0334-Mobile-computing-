@@ -1,0 +1,5 @@
+Q1 - OFFLINE STORE-AND-FORWARD SIMULATION
+Link | Immediate OK | Immediate lost | Queued delivered | Delayed | Mean delay
+ 90% |          901 |             99 |            1000 |      99 |     0.108 min
+ 60% |          565 |            435 |            1000 |     435 |     0.819 min
+ 30% |          280 |            720 |            1000 |     720 |     2.763 min

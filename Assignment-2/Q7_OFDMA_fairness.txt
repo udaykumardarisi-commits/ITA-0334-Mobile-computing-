@@ -1,0 +1,12 @@
+                   strategy  sum_throughput  jain_fairness  minimum_user_rate  maximum_user_rate  weakest_user_share_percent
+     Original: maximum-rate      242.869576       0.594025           0.084609          70.994995                    0.034837
+Redesign: proportional-fair      217.351967       0.917207          11.397927          36.579282                    5.243995
+user  mean_channel_gain  original_max_rate  redesigned_proportional_fair
+  U1               1.00             70.995                        36.579
+  U2               0.90             59.845                        35.005
+  U3               0.78             46.691                        33.039
+  U4               0.65             32.970                        30.805
+  U5               0.52             20.586                        27.886
+  U6               0.38              9.806                        24.297
+  U7               0.22              1.892                        18.342
+  U8               0.10              0.085                        11.398

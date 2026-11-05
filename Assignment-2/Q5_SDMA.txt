@@ -1,0 +1,7 @@
+Q5 - SDMA UNIFORM LINEAR ARRAY BEAM ANALYSIS
+Elements | Approx. HPBW (deg) | First-null estimate (deg) | 10 dB separation
+       2 |              59.90 |                     nan |           52.70
+       4 |              26.20 |                   30.00 |           22.10
+       8 |              12.70 |                   14.50 |           10.70
+      16 |               6.30 |                    7.20 |            5.30
+\nModel: half-wavelength ULA; values are array-pattern estimates, not full cellular SINR.
