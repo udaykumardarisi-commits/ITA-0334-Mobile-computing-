@@ -1,0 +1,22 @@
+EXPECTED ANALYTICAL CHECKS (NOT A CAPTURED PROGRAM RUN)
+
+Hexagon area for R=0.5 km: 0.649519 km^2
+Cells to cover 12 km^2 using ceiling: 19
+For N=7: D=R*sqrt(3N)=2.291288 km; Q=sqrt(21)=4.582576
+Channels per cell: floor(336/7)=48
+Channels per sector with 3 sectors: 16
+Six-interferer SIR approximation:
+ n=2.5: 8.75 dB
+ n=3.0: 12.05 dB
+ n=4.0: 18.66 dB
+Traffic offered:
+ 1,000 users: 25 Erlang
+ 10,000 users: 250 Erlang
+ 20,000 users: 500 Erlang
+ 100,000 users: 2,500 Erlang
+Stadium event-only traffic: 25,000*0.05=1,250 Erlang
+Uniform background traffic in 1 km^2 at 100,000 township users:
+ (100,000*0.025/12)*1=208.333 Erlang
+Combined event-zone estimate: 1,458.333 Erlang
+
+Values above are analytical checks. Monte Carlo values vary with the simulation and seed. Run the script to obtain the actual terminal output and image files.
